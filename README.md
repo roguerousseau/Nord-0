@@ -10,7 +10,7 @@ A precise, modular, and timeless foundation for building modern interfaces.
 
 <br>
 
-[Documentation](#) · [Examples](#) · [Roadmap](#)
+[Documentation](https://rousseau.gitbook.io/nord-docs/) · [Examples](#) · [Roadmap](https://rousseau.gitbook.io/nord)
 
 </div>
 
