@@ -1,1 +1,1 @@
-# Nord 0
+# Resource page, nothing useful here.
